@@ -11,3 +11,12 @@ Pocket - Triggers Ambient Display
 
 
 Proximity wake - Wakes device
+
+
+
+
+
+
+
+
+Doesn't work with Mi A1 stock ROM (yet), works on pretty much anything else close to AOSP
