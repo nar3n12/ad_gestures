@@ -1,6 +1,6 @@
 id=ad_gestures
 name=Ambient Display Gestures
-version=v1
+version=v2
 versionCode=1
 author=ronell1292k
 description=Ports Ambient Display (Doze) Gestures to *almost* all AOSP ROMs
