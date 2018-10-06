@@ -25,6 +25,12 @@ A simple module to add a few nifty ambient display tweaks to your AOSP ROM
 
 **This does NOT add ambient display if your ROM doesn't have it**
 
+**Changelogs:**
+
+*v1:Initial release*
+
+
+*v2:Updated readme, improved visuals (@stallix for decompiling and editing the  apk),page should now be light instead of dark grey*
 
 
 
