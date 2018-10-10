@@ -52,5 +52,5 @@ Joey Huab AKA @stalllix (for helping out when I occasionally hit a wall)
 
 **Sources:**
 
-[Link to the repo](www.github.com/ronell1292k/ad_gestures)
+[Link to the repo](https://github.com/Magisk-Modules-Repo/ad_gestures)
 
