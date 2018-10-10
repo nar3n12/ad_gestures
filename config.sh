@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************************"
-  ui_print "  Ambient Display Gestures by ronell1292k  "
+  ui_print "* Ambient Display Gestures by ronell1292k *"
   ui_print "*******************************************"
 }
 
